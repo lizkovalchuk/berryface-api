@@ -1,0 +1,5 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/romatngp/api.berryface.projects.lizk.ca"
+PassengerBaseURI "/"
+PassengerPython "/home/romatngp/virtualenv/api.berryface.projects.lizk.ca/3.7/bin/python3.7"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
